@@ -1,0 +1,2 @@
+C:\Users\olena.savchuk\Desktop\Android\11.12\ToDo-master2\app\build\intermediates\classes\debug
+C:\Users\olena.savchuk\Desktop\Android\11.12\ToDo-master2\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-c9975261526a9657cc0cf1926fcad9c693005671.jar

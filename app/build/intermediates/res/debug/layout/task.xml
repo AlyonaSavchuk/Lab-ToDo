@@ -1,0 +1,7 @@
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/checkedTextView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:checkMark="?android:attr/textCheckMark"
+    android:checked="false">
+</CheckedTextView><!-- From: file:/C:/Users/olena.savchuk/Desktop/Android/11.12/ToDo-master2/app/src/main/res/layout/task.xml -->
